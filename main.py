@@ -1,8 +1,8 @@
 def hello():
-  print("Hello, World!")
+  return("Hello, World!")
 
 def bye():
-  print("Bye, World!")
+  return("Bye, World!")
 
 
 def test_hello():
